@@ -1,5 +1,7 @@
 Hello guys,
 
+This is the technical component of my weather station, which I’m sharing on Printables.
+
 To get started with this project, you should be familiar with the Arduino Cloud. Please follow the official guide (https://docs.arduino.cc/arduino-cloud/guides/overview/) to:
 
 - Create a new “Thing”
