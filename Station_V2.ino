@@ -22,12 +22,10 @@ constexpr unsigned long DHT_INTERVAL = 6000;
 constexpr unsigned long DISPLAY_TIME = 2875;    
 constexpr unsigned long BLANK_TIME = 250;   
 
-// Mode d'affichage: 0 = Time 1 = Temperature, 2 = Humidity, 3 = Blank
+// Mode: 0 = Time 1 = Temperature, 2 = Humidity, 3 = Blank
 int displayMode = 0;
 const int TOTAL_MODES = 6;  // 3 Modes + 3 Blanks
 bool lastPlanifState = false;
-
- 
 
 void setup() {
   Serial.begin(9600);
