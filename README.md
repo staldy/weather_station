@@ -1,7 +1,7 @@
 
 This is the technical part of my weather station, which I’m sharing on [Printables](https://www.printables.com/@Staldy/models)).
 
-<img src="weather_station.jpg" alt="Weather Station Preview" width="500">
+<img src="weather_station.jpg" alt="Weather Station Preview" width="250">
 
 To get started with this project, you should be familiar with the Arduino Cloud. Please follow the [official guide](https://docs.arduino.cc/arduino-cloud/guides/overview/) to:
 
