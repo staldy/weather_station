@@ -13,5 +13,5 @@ To get started with this project, you should be familiar with the Arduino Cloud.
 
 You will also find a wiring diagram ([wiring_schematics.jpg](https://github.com/staldy/weather_station/blob/main/wiring_schematics.jpg)).
 
-<img src="wiring_schematics.jpg" alt="Weather Station Preview" width="500">
+<img src="wiring_schematics2.jpg" alt="Weather Station Preview" width="500">
 
