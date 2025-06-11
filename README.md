@@ -9,7 +9,7 @@ To get started with this project, you should be familiar with the Arduino Cloud.
 - Associate your Nano ESP32 device
 - Connect to your Wi-Fi network
 - Create the five required variables (see [variables.md](https://github.com/staldy/weather_station/blob/main/variables.md) for details)
-- Download the main code: [Station_v2.ino](https://github.com/staldy/weather_station/blob/main/Station_V2.ino) 
+- Download the main code: [Station_v2.ino](https://github.com/staldy/weather_station/blob/main/station.ino) 
 
 You will also find a wiring diagram ([wiring_schematics.jpg](https://github.com/staldy/weather_station/blob/main/wiring_schematics.jpg)).
 
