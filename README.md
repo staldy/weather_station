@@ -1,3 +1,5 @@
+## Project
+
 This is the technical part of my weather station, which I’m sharing on [Printables](https://www.printables.com/@Staldy/models).
 
 <table>
@@ -9,9 +11,7 @@ This is the technical part of my weather station, which I’m sharing on [Printa
 
 ## Assembly Video
 
-[![Assembly Video](all_parts.jpg)](https://youtu.be/YpZZJhHqThI)
-
-Watch the full assembly process step by step.
+Watch the full [assembly Video](https://youtu.be/YpZZJhHqThI) showing the build process step by step.
 
 ## Code Instructions
 
@@ -22,6 +22,8 @@ To get started with this project, you should be familiar with the Arduino Cloud.
 - Connect to your Wi-Fi network
 - Create the five required variables (see [variables.md](https://github.com/staldy/weather_station/blob/main/variables.md) for details)
 - Upload the main code: [station.ino](https://github.com/staldy/weather_station/blob/main/station.ino)
+
+## Wiring Schematics
 
 You will also find a wiring diagram here:  
 [**wiring_schematics.jpg**](https://github.com/staldy/weather_station/blob/main/wiring_schematics.jpg)
