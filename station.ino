@@ -25,7 +25,7 @@ constexpr unsigned long BLANK_TIME = 250;
 constexpr unsigned long DHT_READ_INTERVAL = 60000;
 
 // Temp factor correction (ex: measured temp too hot → -0.1f = -10%, too cold → 0.1f = +10%)
-constexpr float DHT_TEMP_FACTOR = -0.075f;
+constexpr float DHT_TEMP_FACTOR = -0.09f;
 
 // Mode: 0 = Time 1 = Temperature, 2 = Humidity, 3 = Blank
 int displayMode = 0;
