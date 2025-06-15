@@ -11,7 +11,7 @@ This is the technical part of my weather station, which I’m sharing on [Printa
 
 ## Assembly Video
 
-Watch the full [assembly Video](https://youtu.be/YpZZJhHqThI) showing the build process step by step.
+Watch the full [assembly Video](https://www.youtube.com/watch?v=YpZZJhHqThI) showing the build process step by step.
 
 ## Code Instructions
 
