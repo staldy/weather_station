@@ -1,6 +1,6 @@
 ## Project
 
-This is the technical part of my weather station, which I’m sharing on [Printables](https://www.printables.com/@Staldy/models).
+This is the technical part of my weather station, which I’m sharing on [Printables](https://www.printables.com/model/1328478-weather-station-with-7-segment-display).
 
 <table>
   <tr>
